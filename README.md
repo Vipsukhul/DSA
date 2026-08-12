@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
