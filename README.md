@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
