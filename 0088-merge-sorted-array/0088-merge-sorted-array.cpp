@@ -1,27 +1,19 @@
 class Solution {
 public:
-    void merge(vector<int>& num1, int m, vector<int>& num2, int n) {
-    int i = 0, j = 0;
-    vector<int>res;
-    while(i<m && j<n){
-        if(num1[i]<=num2[j]){
-            res.push_back(num1[i]);
-            i++;
-        }else
-            {
-            res.push_back(num2[j]);
-            j++;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i=m-1,j=n-1,k=m+n-1;//we are using three pointers here
+        while(i>=0 && j>=0){
+            if(nums1[i]<=nums2[j]){
+                nums1[k--]=nums2[j--];
+            }else{
+                nums1[k--]=nums1[i--];
+            }
         }
-        
+        //if i ended up first then loop but if j ended up first then i are already arranged there
+        while(j>=0){
+                nums1[k--]=nums2[j--];
+            }
+
+
     }
-    while(i<m){
-        res.push_back(num1[i]);
-            i++;
-    }
-    while(j<n){
-        res.push_back(num2[j]);
-            j++;
-    }
-    num1=res; // Xer All elemts of res into num1 as we hav to print num1 as per description
-    }       
 };
