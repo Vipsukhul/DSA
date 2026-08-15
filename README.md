@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Vipsukhul/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vipsukhul/DSA-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/Vipsukhul/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vipsukhul/DSA-C-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vipsukhul/DSA-C-/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vipsukhul/DSA-C-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
