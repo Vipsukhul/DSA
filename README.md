@@ -59,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vipsukhul/DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vipsukhul/DSA-C-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vipsukhul/DSA-C-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
