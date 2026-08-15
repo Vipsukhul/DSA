@@ -22,6 +22,6 @@ public:
         res.push_back(num2[j]);
             j++;
     }
-    num1=res;
+    num1=res; // Xer All elemts of res into num1 as we hav to print num1 as per description
     }       
 };
