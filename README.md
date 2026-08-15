@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/Vipsukhul/DSA-C-/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
