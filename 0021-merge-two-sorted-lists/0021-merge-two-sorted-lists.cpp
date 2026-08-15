@@ -17,7 +17,7 @@ public:
         ListNode* t1=list1;
         ListNode* t2=list2;
         while(t1 && t2){
-            if(t1->val<t2->val){
+            if(t1->val<=t2->val){
                 temp->next=t1;
                 temp=t1;
                 t1=t1->next;
