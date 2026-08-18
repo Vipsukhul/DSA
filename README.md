@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/Vipsukhul/DSA-C-/tree/master/0704-binary-search) |
+| [3731-find-missing-elements](https://github.com/Vipsukhul/DSA-C-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Vipsukhul/DSA-C-/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vipsukhul/DSA-C-/tree/master/0141-linked-list-cycle) |
+| [3731-find-missing-elements](https://github.com/Vipsukhul/DSA-C-/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
