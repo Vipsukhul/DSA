@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vipsukhul/DSA-C-/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Vipsukhul/DSA-C-/tree/master/0445-add-two-numbers-ii) |
+| [0728-self-dividing-numbers](https://github.com/Vipsukhul/DSA-C-/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vipsukhul/DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vipsukhul/DSA-C-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
