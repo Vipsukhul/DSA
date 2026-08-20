@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Vipsukhul/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vipsukhul/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/Vipsukhul/DSA-C-/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Vipsukhul/DSA-C-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Vipsukhul/DSA-C-/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Vipsukhul/DSA-C-/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/Vipsukhul/DSA-C-/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vipsukhul/DSA-C-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vipsukhul/DSA-C-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -85,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vipsukhul/DSA-C-/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
