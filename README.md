@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vipsukhul/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vipsukhul/DSA-C-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vipsukhul/DSA-C-/tree/master/0445-add-two-numbers-ii) |
 ## Math
@@ -103,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vipsukhul/DSA-C-/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vipsukhul/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vipsukhul/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vipsukhul/DSA-C-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
